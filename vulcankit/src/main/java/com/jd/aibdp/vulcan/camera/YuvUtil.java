@@ -1,4 +1,4 @@
-package com.yat3s.vulcan.camera;
+package com.jd.aibdp.vulcan.camera;
 
 import android.graphics.Rect;
 import android.graphics.YuvImage;

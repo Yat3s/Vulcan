@@ -1,4 +1,4 @@
-package com.yat3s.vulcan.file;
+package com.jd.aibdp.vulcan.file;
 
 import android.content.res.AssetManager;
 

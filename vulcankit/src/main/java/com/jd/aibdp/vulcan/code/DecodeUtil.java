@@ -1,4 +1,4 @@
-package com.yat3s.vulcan.code;
+package com.jd.aibdp.vulcan.code;
 
 /**
  * Created by Yat3s on 17/08/2017.
